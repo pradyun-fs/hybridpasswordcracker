@@ -154,6 +154,16 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Ignore large text file
+rockyou.txt
+
+# Ignore all text files in the root directory
+*.txt
+
+# Ignore a folder of large files
+/large_datasets/
+
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
