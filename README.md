@@ -10,3 +10,5 @@ Support for Multiprocessing: The program makes use of multiprocessing to take ad
 Users can improve usability and efficiency by having the option to store their progress and resume the attack at a later time.
 Time Limit Option: To avoid consuming too many resources, users can halt the attack after a predetermined amount of time by configuring the time limit.
 
+#BEFORE RUNNING THE CODE
+Download and unzip the rockyou.txt dictionary which holds all the common passowrds that exist in the world.
